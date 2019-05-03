@@ -1,0 +1,10 @@
+/var/www/html/WebServer/bin/Debug/netcoreapp2.0/WebServer.deps.json
+/var/www/html/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.json
+/var/www/html/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.dev.json
+/var/www/html/WebServer/bin/Debug/netcoreapp2.0/WebServer.dll
+/var/www/html/WebServer/bin/Debug/netcoreapp2.0/WebServer.pdb
+/var/www/html/WebServer/obj/Debug/netcoreapp2.0/WebServer.csproj.CoreCompileInputs.cache
+/var/www/html/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfoInputs.cache
+/var/www/html/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfo.cs
+/var/www/html/WebServer/obj/Debug/netcoreapp2.0/WebServer.dll
+/var/www/html/WebServer/obj/Debug/netcoreapp2.0/WebServer.pdb
